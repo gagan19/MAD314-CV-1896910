@@ -1,0 +1,9 @@
+Instructions:
+1.created repo on git hub with name of MAD314-CV-1896910.
+2.Clone it by using the commandof git clone url.
+3.Created CV and copy this file in "MAD314-CV-1896910".
+4.By using ls command soecify the name of file.
+5.add the CV on git hub by using "git add .".
+6.save this change in local  repositry with "git commit -m".
+7.to display the repositry use "git status".
+8.upload the CV by using "git push" command
